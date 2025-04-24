@@ -25,7 +25,7 @@ Learning **NestJS & TypeScript**
 
 
 ### 🔗 Reach me
-<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)</code>
+<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)</code>
 <code>[![Telegram](https://img.shields.io/badge/Telegram-%23000000?style=flat&logo=telegram&logoColor=white)](https://t.me/ashokhruzbek)</code>
 <code>[![Instagram](https://img.shields.io/badge/Instagram-%23000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)</code>
 <code>[![Facebook](https://img.shields.io/badge/Facebook-%23000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/a.shokhruzbek)</code>
