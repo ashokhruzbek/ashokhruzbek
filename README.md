@@ -32,8 +32,8 @@ Learning **Nest JS & TypeScript**
 <code>[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+998930475909)</code>
 <code>[![Youtube](https://img.shields.io/badge/Youtube-%23000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ashokhruzbek)</code>
 
----
+
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
----
+
