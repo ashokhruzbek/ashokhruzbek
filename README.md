@@ -19,7 +19,7 @@ Learning **Nest JS & TypeScript**
 
 ## 📂 Featured Projects
 
-[![Todo List](https://img.shields.io/badge/Todo%20List-%E2%86%92-000000?style=social&logo=google)](https://todo-list-sandy-delta-63.vercel.app/) 
+[![Todo List](https://img.shields.io/badge/Todo%20List-%E2%86%92-000000?style=social&logo=google)](https://todo-list-sandy-delta-63.vercel.app/)  
 [![1st Portfolio](https://img.shields.io/badge/1st%20Portfolio-%E2%86%92-000000?style=social&logo=firefox)](https://my-first-portfolio-dun.vercel.app/)
 
 
