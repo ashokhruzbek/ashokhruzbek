@@ -33,7 +33,6 @@ Learning **Nest JS & TypeScript**
 <code>[![Youtube](https://img.shields.io/badge/Youtube-%23000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ashokhruzbek)</code>
 
 
-
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <code>![Profile Views](https://komarev.com/ghpvc/?username=ashokhruzbek&color=000000)</code>
