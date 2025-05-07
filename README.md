@@ -36,6 +36,5 @@ Learning **Nest JS & TypeScript**
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashokhruzbek&color=000000)
-
+<code>![Profile Views](https://komarev.com/ghpvc/?username=ashokhruzbek&color=000000)</code>
 
