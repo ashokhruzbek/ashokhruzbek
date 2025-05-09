@@ -28,7 +28,6 @@ Learning **Next JS & Firebase**
 <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)</code>
 <code>[![Telegram](https://img.shields.io/badge/Telegram-%23000000?style=flat&logo=telegram&logoColor=white)](https://t.me/ashokhruzbek)</code>
 <code>[![Instagram](https://img.shields.io/badge/Instagram-%23000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)</code>
-<code>[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+998930475909)</code>
 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)  
