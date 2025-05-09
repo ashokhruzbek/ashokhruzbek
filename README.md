@@ -3,7 +3,7 @@
 **Fullstack Developer** | 💡 **Open Source Enthusiast**  
 
 Currently working on **Fullstack Projects**  
-Learning **Nest JS & TypeScript**  
+Learning **Next JS & Firebase**  
 
 ## 🛠 Tech Stack  
 
