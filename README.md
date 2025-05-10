@@ -32,5 +32,6 @@ Learning **Next JS & Firebase**
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)  
 
-<code>![Profile Views](https://komarev.com/ghpvc/?username=ashokhruzbek&color=000000)</code>
+![Profile Views](https://img.shields.io/badge/Profile%20Views-🔍%20dynamic-000000?style=for-the-badge&logo=github)
+
 
