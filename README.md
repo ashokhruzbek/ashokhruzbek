@@ -32,7 +32,7 @@ Learning **Next JS & Firebase**
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)  
 
-<code>![GitHub Views](https://komarev.com/ghpvc/?username=ashokhruzbek&label=GitHub%20Profile%20Views&color=000000&style=for-the-badge)</code>
+<code>![GitHub Views](https://komarev.com/ghpvc/?username=ashokhruzbek&label=GitHub%20Profile%20Views&color=000000&style=flat)</code>
 
 
 
