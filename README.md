@@ -20,9 +20,8 @@ Learning **Next JS & Firebase**
 -
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)  
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashokhruzbek&bg_color=000000&title_color=2f7feb&text_color=0e2748&icon_color=2f7feb&border_color=ffffff&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com?user=ashokhruzbek&background=000000&currStreakLabel=2f7feb&ring=2f7feb&fire=2f7feb&sideNums=2f7feb&sideLabels=2f7feb&dates=0e2748&text=2f7feb)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokhruzbek&layout=compact&bg_color=000000&title_color=2f7feb&text_color=0e2748&border_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=ashokhruzbek&bg_color=000000&title_color=2f7feb&text_color=0e2748&icon_color=2f7feb&border_color=000000&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokhruzbek&layout=compact&bg_color=000000&title_color=2f7feb&text_color=0e2748&border_color=000000)
 -
 ### 📂 Feature projects
 [![Todo List](https://img.shields.io/badge/Todo%20List-%E2%86%92-000000?style=for-the-badge&logo=github)](https://todo-list-sandy-delta-63.vercel.app/)
