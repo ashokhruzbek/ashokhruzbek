@@ -18,8 +18,7 @@ Learning **Next JS & Firebase**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)  
--
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)  
+-  
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashokhruzbek&bg_color=000000&title_color=2f7feb&text_color=ffffff&icon_color=ffffff&border_color=000000&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokhruzbek&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
@@ -35,3 +34,5 @@ Learning **Next JS & Firebase**
 -  
   
 ![GitHub Views](https://komarev.com/ghpvc/?username=ashokhruzbek&label=GitHub%20Profile%20Views&color=000000&style=flat)
+-
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
