@@ -20,6 +20,7 @@ Learning **Next JS & Firebase**
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)  
 -  
 ### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashokhruzbek&theme=dark&background=000000&ring=ffffff&fire=2f7feb&currStreakLabel=2f7feb&sideLabels=2f7feb&dates=ffffff&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=ashokhruzbek&bg_color=000000&title_color=2f7feb&text_color=ffffff&icon_color=ffffff&border_color=000000&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokhruzbek&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
 -
