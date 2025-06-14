@@ -1,4 +1,4 @@
- #  **Shokhruzbek Abdurakhmonov**  
+ #  **Shoxruzbek Abduraxmonov**  
 
 **Fullstack Developer**ㅤ| 💡 **Open Source Enthusiast**  
 
