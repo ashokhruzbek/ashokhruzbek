@@ -1,6 +1,6 @@
  #  **Shoxruzbek Abduraxmonov**  
 
-**Fullstack Developer**ㅤ| 💡 **Open Source Enthusiast**  
+**Fullstack Developer**ㅤ| 💡 **Open Source Enthusiast** 
 
 Currently working on **Fullstack Projects**  
 Learning **Next JS & Firebase**  
