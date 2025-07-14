@@ -24,6 +24,7 @@ Learning **Next JS & Firebase**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokhruzbek&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
 -
 ### 📂 Feature projects
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%E2%86%92-000000?style=for-the-badge&logo=github)](https://shoxruzbek.uz)
 [![Todo List](https://img.shields.io/badge/Todo%20List-%E2%86%92-000000?style=for-the-badge&logo=github)](https://todo-list-sandy-delta-63.vercel.app/)
 [![1st Portfolio](https://img.shields.io/badge/1st%20Portfolio-%E2%86%92-000000?style=for-the-badge&logo=github)](https://my-first-portfolio-dun.vercel.app/)
 -
