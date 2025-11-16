@@ -36,4 +36,10 @@ Learning **Next JS & Firebase**
   
 ![GitHub Views](https://komarev.com/ghpvc/?username=ashokhruzbek&label=GitHub%20Profile%20Views&color=000000&style=flat)
 -
+<p align="left">
+  <a href="https://www.buymeacoffee.com/shokhruzbek" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
+
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
